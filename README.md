@@ -70,7 +70,7 @@ A starter for NextJS fullstack projects with all you need to start your side pro
 
 ```bash
 git clone https://github.com/SaraVieira/next-fullstack-starter
-cd trpc-prisma-starter
+cd next-fullstack-starter
 yarn
 cp .env.example .env
 yarn dx
